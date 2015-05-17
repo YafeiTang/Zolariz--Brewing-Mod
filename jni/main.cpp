@@ -3,7 +3,7 @@
 #include <android/log.h>
 #include <stdlib.h>
 #include <mcpe.h>
-#include <substrate.h>
+#include <Substrate.h>
 
 #define LOG_TAG "brewingpe"
 
