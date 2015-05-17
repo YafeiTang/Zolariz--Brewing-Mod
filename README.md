@@ -10,5 +10,5 @@ Try the beta if you are interested! Follow These Simple Steps!
 5. Just Wait 10 seconds or 15 seconds patiently!
 6. Then Run it on the top right!
 
-
+Oh! If you don't get these simple steps, Check my Wiki! URL: 
 
